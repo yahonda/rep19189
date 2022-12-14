@@ -1,4 +1,6 @@
 FROM rubylang/rubyfarm:7f1ca666424849134990d022266bcd4d6636465f
+# FROM ruby:3.1.3 # passes
+# FROM rubylang/ruby:3.1.3-focal # passes
 # FROM rubylang/rubyfarm:88c12a29372e3f908190c6af0aa1b2ac6b78fbd1 # passes
 # FROM rubylang/rubyfarm:7f1ca666424849134990d022266bcd4d6636465f # fails
 # FROM rubylang/ruby:master-nightly-focal # fails
